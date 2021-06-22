@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\bin\Debug\Anons Programı.exe.config
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\bin\Debug\Anons Programı.exe
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\bin\Debug\Anons Programı.pdb
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons_Programı.Form1.resources
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons_Programı.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons Programı.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons Programı.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons Programı.exe
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons Programı.pdb
+C:\Users\ASUS\source\repos\Anons Programı\Anons Programı\obj\Debug\Anons Programı.csprojAssemblyReference.cache
